@@ -1,5 +1,5 @@
 <h1>✌ <b>Hello!</b> ✌</h1>
-<h2>Student | Front-End Developer</h2>
+<h2>💻Student|✨Front-End Developer</h2>
 
 ### About me
 - I'm 21 years old from Mexico.
